@@ -1,0 +1,34 @@
+body{
+    font-size: medium;
+    margin: 100px;
+}
+.head{
+   background-color: black;
+    color: rgb(227, 234, 240);
+}
+h1{
+    color: rgb(113, 20, 20);
+    text-align: center;
+}
+h2{
+    color: rgb(135, 29, 29);
+    text-align: center;
+}
+h3{
+    color: rgb(111, 0, 255);
+}
+#clock{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+}
+button{
+    background-color: green;
+    color: white;
+    text-align: center;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left: 629px;
+}
